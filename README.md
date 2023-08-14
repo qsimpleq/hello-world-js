@@ -1,4 +1,4 @@
-## Nothing but javascript "Hello World!"
+## Nothing but javascript "Hello World!" for testing purposes only
 
 [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/hello-world-js)
 
